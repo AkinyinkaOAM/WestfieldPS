@@ -36,9 +36,11 @@ export default function App() {
   return (
     <div className="site">
       <header className="topbar">
-        <span><Phone size={15} /> +234 000 000 0000</span>
+        <span><Phone size={15} /> +234 802 813 1484</span>
         <span><Mail size={15} /> info@westfieldprivateschool.com</span>
-        <span><MapPin size={15} /> School address goes here</span>
+        <span><MapPin size={15} /> - 111, Awolowo way along Navy School Ota, Ogun State.
+        - 13, Osuketedo Street, Afobaje Area, Ota, Ogun State.
+        </span>
       </header>
 
       <nav className="navbar">
